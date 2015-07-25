@@ -3,5 +3,5 @@ source "https://rubygems.org"
 
 # gem "rails"
 gem "get_process_mem"
-gem "active_support"
+gem "activesupport"
 gem "benchmark-ips"
