@@ -57,7 +57,7 @@ Comparison:
             original:    54076.4 i/s - 1.38x slower
 ```
 
-=> **About 38% percent faster**
+=> **About 38% faster**
 
 ## Compatibility
 
